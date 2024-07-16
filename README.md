@@ -8,7 +8,7 @@ Integração simples do nodejs com o mercado pago.
 
 
 ### Rodando a aplicação
-Agora rode o comando 'npm install' para instalar os pacotes que a aplicação exige e excute o arquivo index.js com o comando
+Rode o comando 'npm install' para instalar os pacotes que a aplicação exige e excute o arquivo index.js com o comando
 
 ```shell
 npm install
