@@ -6,9 +6,10 @@ Integração simples do nodejs com o mercado pago.
 </p>
 
 
+Crie sua conta no mercado pago para fazer a integração do seu projeto.
 
 ### Rodando a aplicação
-Rode o comando 'npm install' para instalar os pacotes que a aplicação exige e excute o arquivo index.js com o comando
+Agora rode o comando 'npm install' para instalar os pacotes que a aplicação exige e excute o arquivo index.js com o comando
 
 ```shell
 npm install
@@ -22,5 +23,8 @@ Após isso insira o comando a baixo e abra em seu navegado http://localhost:3000
 node index.js
 ```
 
+Para fazer os teste use os cartões de teste :
+https://www.mercadopago.com.br/developers/pt/docs/your-integrations/test/cards
 
+Lembrese de usar um navegador que nao esteja logado a sua conta propria do mercado pago pois você nao pode fazer o pagamento para si proprio. Use uma aba anonima ou limpe o seu cache para fazer os testes.
 
